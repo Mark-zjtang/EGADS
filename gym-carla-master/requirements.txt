@@ -1,0 +1,9 @@
+
+gym==0.12.5
+pygame==2.0.0
+scikit-image==0.16.2
+absl-py
+gin-config==0.3
+tf-agents==0.6
+tensorflow-probability==0.12
+shapely==1.7.0
