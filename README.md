@@ -21,8 +21,8 @@ Our EGADS framework effectively enhances sample efficiency, safety, and generali
 `$ source activate dreamer`
 
 ## 2.Installation CARLA
+* An NVIDIA RTX 3090 GPU, python 3.8
 * Based on Ubuntu 16.04 or 18.04
-* An NVIDIA RTX 3090 GPU
 
     `$ cd $yourfolder$/gym-carla-master`
 
