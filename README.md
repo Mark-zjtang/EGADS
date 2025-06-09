@@ -22,6 +22,7 @@ Our EGADS framework effectively enhances sample efficiency, safety, and generali
 
 ## 2.Installation CARLA
 * Based on Ubuntu 16.04 or 18.04
+* An NVIDIA RTX 3090 GPU
 
     `$ cd $yourfolder$/gym-carla-master`
 
