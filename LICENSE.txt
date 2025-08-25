@@ -1,4 +1,4 @@
-Copyright [2024] [This paper, identified by the submission number 1622, has been submitted to ECML PKDD 2025 conference. The copyright currently rests with the author(s)/owner(s), and upon acceptance,
+Copyright [2025] [This paper, identified by the submission number 1622, has been submitted to ECML PKDD 2025 conference. The copyright currently rests with the author(s)/owner(s), and upon acceptance,
 the copyright will be transferred to the publisher in accordance with the conference policies.]
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -13,3 +13,4 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 
 limitations under the License.
+
